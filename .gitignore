@@ -1,3 +1,4 @@
-GAT/
-GNN-Tutorial/
-HAN/
+GAT/*
+GNN-Tutorial/*
+HAN/*
+models/*

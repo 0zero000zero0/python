@@ -1,0 +1,13 @@
+['Name',
+'Description',
+'Canonical SMILES',
+'Isomeric SMILES',
+'Biopesticide type',
+'Mode of action',
+'Substance source',
+'Target pests',
+'Target host',
+'IUPAC name',
+'CAS name',
+'Related substances & organisms',
+'Formulation and application details']
