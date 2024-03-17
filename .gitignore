@@ -2,3 +2,6 @@ GAT/*
 GNN-Tutorial/*
 HAN/*
 models/*
+.vscode/*
+images/*
+temp/*
